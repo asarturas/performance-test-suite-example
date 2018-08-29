@@ -1,4 +1,4 @@
-**Note: this project producted by applying giter8 template with: `sbt new spikerlabs/gatling.g8`**
+**Note: this project producted by applying giter8 template with: `sbt new spikerlabs/gatling-jar.g8`**
 
 ## performance-test-suite-example - performance test suite
 
